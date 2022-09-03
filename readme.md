@@ -10,4 +10,4 @@
 <img src="https://github.com/ROBERT-Gimenez/Trabajos_Practicos_Formar/blob/master/15-Session%26Cookies/public/images/preview2.PNG">
 <img src="https://github.com/ROBERT-Gimenez/Trabajos_Practicos_Formar/blob/master/15-Session%26Cookies/public/images/preview3.PNG">
 <img src="https://github.com/ROBERT-Gimenez/Trabajos_Practicos_Formar/blob/master/15-Session%26Cookies/public/images/preview4.PNG">
-<img src="https://github.com/ROBERT-Gimenez/Trabajos_Practicos_Formar/blob/master/15-Session%26Cookies/public/images/preview5.PNG">
+<img src="https://github.com/ROBERT-Gimenez/Trabajos_Practicos_Formar/blob/master/15-Session%26Cookies/public/images/preview5.PNG"> 
